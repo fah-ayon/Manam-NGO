@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>HMS</title>
+	<title>MANAM</title>
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 <link rel="stylesheet" type="text/css" href="style1.css">
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
