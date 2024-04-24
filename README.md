@@ -10,6 +10,8 @@ Thank you for choosing us for your healthcare needs.
 
 
 
+
+
 **Project Features** 
  
 The website needs to run through some authorization. Which we call them as the features. In our project of this NGO (manam) we used some features which will help us to find the right address where we have to look out for. The features we used are, 
